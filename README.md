@@ -35,15 +35,18 @@ The contace of the main window using Tkinter.
 Build the buttons for the grid.
 Inserting a label to the credits in the last position of the window.
 
-Screenshots
+**Screenshots**
+
 ![image](https://github.com/user-attachments/assets/518037bf-4667-4be0-b7c5-8c560f6dd622)
 
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE
  file for details.
  
 **Acknowledgements**
+
 Developed by DeadXFire.
 Icons made by [Flowicon](https://www.flaticon.com/authors/flowicon) from [Flaticon](https://www.flaticon.com) are used in this project. Specifically, [calculator icons](https://www.flaticon.com/free-icons/calculator) are created by Flowicon - Flaticon.
 
