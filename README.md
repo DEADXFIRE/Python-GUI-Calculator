@@ -12,7 +12,7 @@ This is the minimalistic calculator that has been developed using Python and Tki
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/DEADXFIRE/Python-GUI-Calculator.git
+   git clone https://github.com/deadxfire/Python-GUI-Calculator.git
    cd Python-GUI-Calculato
 Getting the Calculationponent First of all, make sure that you have Python installed on your computer. You will need to go to python.org to do this.
 Running the ApplicationbashCopy codepython calculator.py
@@ -40,12 +40,12 @@ Inserting a label to the credits in the last position of the window.
 ![image](https://github.com/user-attachments/assets/518037bf-4667-4be0-b7c5-8c560f6dd622)
 
 
-**License**
+## **License**
 
 This project is licensed under the MIT License - see the LICENSE
  file for details.
  
-**Acknowledgements**
+## **Acknowledgements**
 
 Developed by DeadXFire.
 Icons made by [Flowicon](https://www.flaticon.com/authors/flowicon) from [Flaticon](https://www.flaticon.com) are used in this project. Specifically, [calculator icons](https://www.flaticon.com/free-icons/calculator) are created by Flowicon - Flaticon.
